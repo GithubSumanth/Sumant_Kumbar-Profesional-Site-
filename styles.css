@@ -1,0 +1,123 @@
+/* black1: #111 */
+/* black2: #000 */
+/* black3: #191919 */
+/* font-family: 'Cormorant Upright', serif;
+   font-family: 'Katibeh', cursive;
+   font-family: 'Vollkorn', serif; */
+
+body{
+  background-color: #111;
+  box-sizing: border-box;
+}
+
+a{
+  color:#fff;
+}
+
+nav{
+ background-color:#111;
+ padding-left: 0px;
+ padding-right: 6%;
+ margin-left: 6%;
+ margin-right: 0px;
+}
+/* Navigation Bar*/
+
+.nav-item{
+  padding:5px 0 5px 60px;
+  font-size: 1.4rem;
+  font-family: 'Cormorant Upright', serif;
+  font-weight: 200;
+  letter-spacing: 1px;
+}
+
+.navigation{
+  padding:0;
+  padding:10px 0;
+  margin:0 6%;
+
+}
+
+/* First Header */
+
+.header{
+  height:90vh;
+  margin:0 6%;
+}
+
+.header-1{
+  background-color: #000;
+  border-radius: 18px;
+  position: relative;
+  padding:5%;
+  margin-bottom:80px;
+  margin-top:95px;
+}
+
+.header-1-content{
+  position:absolute;
+  color: #fff;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  font-family: 'Cormorant Upright', serif;
+  text-align: center;
+}
+
+.heading-1{
+  letter-spacing:1px;
+  font-size: 4.5rem;
+  font-weight: 700;
+}
+
+.para{
+  letter-spacing:1px;
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+/* Second Header */
+
+.header-2{
+  margin:0 6%;
+  background-color: #000;
+  border-radius: 18px;
+  margin-bottom:80px;
+  margin-top:95px;
+}
+
+.my-img-cont{
+  text-align: center;
+  margin:30px 0;
+}
+
+.my-img{
+  width:70%;
+}
+
+.header-2{
+  padding: 5% 3%;
+}
+
+.header-2-content{
+  margin:30px 0;
+  text-align: center;
+  color: #fff;
+}
+
+.heading-2{
+  letter-spacing:1px;
+  font-size: 4.5rem;
+  font-weight: 700;
+  padding-bottom:5%;
+  font-family: 'Cormorant Upright', serif;
+}
+
+.para-2{
+ padding: 0 6%;
+ letter-spacing:1px;
+ font-size: 1.5rem;
+ font-weight: 300;
+ font-family: 'Cormorant Upright', serif;
+}
+/* Headder 3 */
